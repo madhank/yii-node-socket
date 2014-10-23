@@ -1,7 +1,7 @@
 Yii Node Socket
 =================
 
-Connect php, javascript, nodejs in one Yii application.
+This extension enables you to connect php, javascript, nodejs in one Yii application.
 
 ####What you can do:
 
@@ -21,6 +21,7 @@ Connect php, javascript, nodejs in one Yii application.
  - linux/unix/windows
  - git
  - vps or dedicated server (for nodejs process)
+ - ensure that php curl is installed or enabled
 
 #Installation
 
